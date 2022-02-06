@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi folks<img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="40">!I am Deepak-Poonia.</h1>
 <h3  align="center">A Coding Enthusiast from DTU</h3>
-<a href="https://twitter.com/theexoticguy13" target="blank" width="50"><img src="https://img.shields.io/twitter/follow/theexoticguy?logo=twitter&style=for-the-badge" alt="theexoticguy13" height="30"></a> </p>
+<p>
+<img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=s180-rw" height="31"><img src="https://img.shields.io/github/followers/Deepak1306?label=follow&style=social)](https://github.com/Deepak1306)" width="100" height="31"></img> &nbsp;
+<a href="https://twitter.com/theexoticguy13" target="blank" width="50"><img src="https://img.shields.io/twitter/follow/theexoticguy?logo=twitter&style=for-the-badge" alt="theexoticguy13" height="30"></a> &nbsp;
+</p>
 
 <hr>
 
