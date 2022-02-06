@@ -8,7 +8,7 @@
 
 <hr>
 
-<a href="URL_REDIRECT" target="blank"><img align="right" src="https://miro.medium.com/max/875/0*Eb7VCChZ1RqcBAGG" height="300" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="right" src="https://user-images.githubusercontent.com/87796410/152679723-ec17710b-1545-4098-a257-ef3f5c7d0f54.jpg" height="300" /></a>
 <ul>
   <li><h3><img src="https://c.tenor.com/2gYfk-uwUnoAAAAi/graduation-cap-graduate.gif" height="20">A 3rd Year ECE Student</h3></li><br>
   <li><h3> <img src="https://c.tenor.com/H6CIWtKHIM0AAAAi/telescope-objects.gif" height="20">I am currently exploring Web Development</h3></li><br>
