@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi folks<img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="40">!I am Deepak-Poonia.</h1>
 <h3  align="center">A Coding Enthusiast from DTU</h3>
-<p><img src="https://komarev.com/ghpvc/?username=your-github-Deepak1306" height="30">
-  
 <a href="https://twitter.com/theexoticguy13" target="blank" width="50"><img src="https://img.shields.io/twitter/follow/theexoticguy?logo=twitter&style=for-the-badge" alt="theexoticguy13" height="30"></a> </p>
 
 <hr>
