@@ -10,7 +10,7 @@
 
 <a href="URL_REDIRECT" target="blank"><img align="right" src="https://user-images.githubusercontent.com/87796410/152679723-ec17710b-1545-4098-a257-ef3f5c7d0f54.jpg" height="300" /></a>
 <ul>
-  <li><h3><img src="https://c.tenor.com/2gYfk-uwUnoAAAAi/graduation-cap-graduate.gif" height="20">A 3rd Year ECE Student</h3></li><br>
+  <li><h3><img src="https://c.tenor.com/2gYfk-uwUnoAAAAi/graduation-cap-graduate.gif" height="20">3rd Year ECE Undergraduate</h3></li><br>
   <li><h3> <img src="https://c.tenor.com/H6CIWtKHIM0AAAAi/telescope-objects.gif" height="20">I am currently exploring Web Development</h3></li><br>
   <li><h3><img src="https://c.tenor.com/o_YjMXKZhRgAAAAi/redux-react.gif" height="20">Learning React and Node.js</h3></li><br>
   <li><h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsB3Zrsil8K6w7RnpvJAYUuyFh3GjNvLAyvA&usqp=CAU" height="20">Programming language C++</h3></li>  
